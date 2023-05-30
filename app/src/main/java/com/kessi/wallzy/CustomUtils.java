@@ -18,7 +18,7 @@ public class CustomUtils {
 
     public static final int TIME = 3000; // 5000ms = 5s
 
-    public static final String jsonURL = "http://192.168.1.7/json/data.json";
+    public static final String jsonURL = "https://abdelalimalki.com/db.json";
     public static int dataIsLoaded = 0;
 
     public static boolean showAds = true;

@@ -7,11 +7,11 @@
         <deviceKey>
           <Key>
             <type value="VIRTUAL_DEVICE_PATH" />
-            <value value="C:\Users\Zaax_09\.android\avd\5.4_FWVGA_API_UpsideDownCake.avd" />
+            <value value="C:\Users\solicode\.android\avd\Pixel_3a_API_29_3.avd" />
           </Key>
         </deviceKey>
       </Target>
     </targetSelectedWithDropDown>
-    <timeTargetWasSelectedWithDropDown value="2023-03-30T22:32:41.300797100Z" />
+    <timeTargetWasSelectedWithDropDown value="2023-04-18T11:55:08.594076700Z" />
   </component>
 </project>
